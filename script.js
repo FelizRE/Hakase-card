@@ -1,4 +1,4 @@
-const card = document.querySelector('#card');
+/*const card = document.querySelector('#card');
 const cardHeader = card.querySelector('header');
 const resetBtn = document.querySelector('.reset');
 
@@ -47,7 +47,7 @@ function resetPosition() {
 
 // Add a click event listener to the reset button to call the 'resetPosition' function
 resetBtn.addEventListener('click', resetPosition);
-
+*/
 
 
 const track = document.getElementById("image-track");
