@@ -179,4 +179,20 @@ div.polaroid {
     width: 100%;
     background: none;
   }
+
+  @media screen and (max-width: 600px)
+  {
+    .card{
+        position: absolute;
+        width: 240px;
+        color: #fff;
+        background: rgba(0, 0, 0, 0.43);
+        border-radius: 1rem;
+        padding: 1.3rem 1.5rem;
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        backdrop-filter: blur(8.2px);
+        -webkit-backdrop-filter: blur(8.2px);
+        border: 1px solid #ffffff20;
+    } 
+  }
   
