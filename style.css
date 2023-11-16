@@ -37,6 +37,7 @@ body{
     position: absolute;
     left: -15px;
     width: 25%;
+    height: 100%;
     color: #fff;
     background: rgba(0, 0, 0, 0.43);
     border-radius: 1rem;
@@ -56,7 +57,7 @@ body{
 }
 
 .card .card-body{
-    padding: 1.5rem;
+    padding: 1.5rem 1.5rem 7.5rem;
     border-bottom: 1px solid #ffffff;
 }
 
@@ -174,3 +175,8 @@ body{
 img {
     border-radius: 5%;
   }
+div.polaroid {
+    width: 100%;
+    background: none;
+  }
+  
